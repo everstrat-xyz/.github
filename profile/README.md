@@ -38,7 +38,6 @@ Strategies and limits are encoded in smart contracts — automation can only act
 - **App:** [app.everstrat.xyz](https://app.everstrat.xyz)
 - **Docs:** [docs.everstrat.xyz](https://docs.everstrat.xyz)
 - **Website:** [everstrat.xyz](https://everstrat.xyz)
-- **DAO:** [EverDAO](https://t.me/everdao)
 
 ---
 
