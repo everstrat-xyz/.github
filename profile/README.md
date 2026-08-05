@@ -1,29 +1,39 @@
-# EverStrat 🚀
+# Everything Strategy
 
-**On-chain Strategy. Autonomous Execution. DAO‑driven Alpha.**
+**One click to everything DeFi.**
 
-EverStrat is a decentralised platform for creating, funding, and executing on-chain investment strategies — powered by AI agents and governed by the EverDAO community.
+Everstrat is an on-chain yield machine. Stake ETH once, receive liquid EVE, and get exposure to strategies selected and governed by the DAO, without managing positions, gas, or rebalancing yourself.
 
 ---
 
-## 📦 Ecosystem
+## System Overview
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| [**EverDrone**](https://everdrone.xyz) | Autonomous trading agent — executes HYPE/perps strategies based on technical signals, orderbook analysis, and risk rules | 🔧 Active |
-| **EverSwarm** | Multi-agent coordination layer — orchestrates specialised agents (analysts, traders, risk managers) into a single strategy | 🛠 In development |
-| **Eve** | AI research agent — ingests market data, produces actionable alpha insights for the DAO | 🧪 Research |
-| **Contracts** | Core smart contracts — on-chain strategy vaults, settlement, and DAO treasury management | 🔒 Public |
+**AMM** — Stake ETH through the bonding curve to mint EVE. Your position is priced on-chain and remains liquid at all times.
 
-## 🏛 Governance
+**Strategies** — The DAO governs which strategies are active and how capital is allocated between them. Nothing enters the basket without governance approval.
 
-EverDAO governs the protocol through:
+**Agents** — Agent automation is the next stage of the roadmap. Today, execution and rebalancing run on protocol keepers within strict on-chain limits.
 
-- **Strategy Proposals** — community votes on which strategies to fund
-- **Capital Allocation** — DAO treasury deployment into approved strategies
-- **Risk Parameters** — collective decisions on position sizing, leverage, and asset whitelists
+## Key Design Principles
 
-## 🔗 Links
+- **DAO-governed** — The DAO selects and oversees every active strategy. Protocol automation executes routine work.
+- **Adaptive yield** — Stake ETH once. Receive liquid EVE. Yield accrues in the token value.
+- **ETH-centric economy** — All internal accounting and pricing happens in ETH. Exposure to multiple yield sources simultaneously without juggling different tokens.
+- **Liquid price discovery** — Enter and exit through the bonding curve at any time. EVE gives you liquid exposure to the current strategy basket.
+
+## Security
+
+Strategies and limits are encoded in smart contracts — automation can only act within strict on-chain boundaries. Configuration changes go through a 48-hour timelock. A separate emergency role can pause the protocol without delay, but can never configure, unpause, or upgrade.
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| everdrone | Autonomous trading agent executing HYPE/perps strategies based on technical signals and risk rules |
+| everswarm | Multi-agent coordination layer for orchestrating specialised agents into unified strategies |
+| contracts | Core smart contracts — on-chain strategy vaults, settlement, and treasury management |
+
+## Links
 
 - **App:** [app.everstrat.xyz](https://app.everstrat.xyz)
 - **Docs:** [docs.everstrat.xyz](https://docs.everstrat.xyz)
@@ -32,4 +42,6 @@ EverDAO governs the protocol through:
 
 ---
 
-*On-chain execution, AI‑powered analysis, DAO‑driven direction.*
+Brought to you by [GUIDE](https://github.com/Guide-DAO-Organization) and [daoism systems](https://github.com/daoism-systems).
+
+© 2026 Everything Strategy.
