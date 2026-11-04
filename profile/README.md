@@ -25,14 +25,6 @@ Everstrat is an on-chain yield machine. Stake ETH once, receive liquid EVE, and 
 
 Strategies and limits are encoded in smart contracts — automation can only act within strict on-chain boundaries. Configuration changes go through a 48-hour timelock. A separate emergency role can pause the protocol without delay, but can never configure, unpause, or upgrade.
 
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| everdrone | Autonomous trading agent executing HYPE/perps strategies based on technical signals and risk rules |
-| everswarm | Multi-agent coordination layer for orchestrating specialised agents into unified strategies |
-| contracts | Core smart contracts — on-chain strategy vaults, settlement, and treasury management |
-
 ## Links
 
 - **App:** [app.everstrat.xyz](https://app.everstrat.xyz)
