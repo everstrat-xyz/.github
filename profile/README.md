@@ -1,4 +1,4 @@
-# Everything Strategy
+# Everstrat
 
 **One click to everything DeFi.**
 
@@ -35,4 +35,4 @@ Strategies and limits are encoded in smart contracts — automation can only act
 
 Brought to you by [GUIDE](https://github.com/Guide-DAO-Organization) and [daoism systems](https://github.com/daoism-systems).
 
-© 2026 Everything Strategy.
+© 2026 Everstrat.
